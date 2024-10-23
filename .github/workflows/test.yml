@@ -1,4 +1,4 @@
-name: Notify Teams Example
+name: Notify Teams Testing
 
 on:
   push:
